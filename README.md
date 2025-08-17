@@ -158,7 +158,7 @@ Response:
 ---
 
 ## Existing Issues
-* Text formatting produces some weird symbols
+* Text formatting produced weird symbols during dev (but they're not showing up in deployed app)
 * This (like so many other projects) could use more testing
 
 ## 🔮 Future Ideas
