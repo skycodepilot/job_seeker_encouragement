@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: joblift
+    env: docker
+    plan: free   # change to 'starter' or higher if you outgrow free tier
+    region: oregon  # pick your closest region: oregon, frankfurt, virginia
+    branch: main
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
