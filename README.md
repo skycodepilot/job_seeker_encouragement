@@ -10,6 +10,10 @@ The app serves both:
 
 Deployed easily with Docker or on free cloud tiers like Render.
 
+Check out the front end at:
+
+* https://job-seeker-encouragement.onrender.com/static/index.html
+
 ---
 
 ## ✨ Features
@@ -66,7 +70,7 @@ joblift/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOURUSERNAME/joblift.git
+git clone https://github.com/skycodepilot/joblift.git
 cd joblift
 ```
 
