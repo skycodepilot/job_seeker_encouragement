@@ -43,14 +43,14 @@ Check out the front end at:
 joblift/
 │
 ├── app/
-│   ├── __init.py__          # empty file (has use for test environment config "tagging" for app, see below)
+│   ├── __init.py__          # empty file (used w/environment config "tagging", see below)
 │   ├── data.json            # Encouragement data
 │   ├── main.py              # FastAPI app & endpoints
 │   ├── static/              # Frontend files
 │   │   ├── index.html
 │   │   └── script.js
 │   └── tests/
-│       └── conftest.py      # Unit test setup (specific to any environment issues detecting app as a "package")
+│       └── conftest.py      # Unit test setup (fixes issues detecting app as "package")
 │       └── test_api.py      # Unit tests
 │
 
