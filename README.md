@@ -153,6 +153,10 @@ Response:
 
 ---
 
+## Existing Issues
+* Text formatting produces some weird symbols
+* This (like so many other projects) could use more testing
+
 ## 🔮 Future Ideas
 
 * Expand dataset to include **all U.S. cities / states**
